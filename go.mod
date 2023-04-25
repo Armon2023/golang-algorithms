@@ -1,4 +1,4 @@
-module go_ph
+module golang-algorithms
 
 go 1.17
 
